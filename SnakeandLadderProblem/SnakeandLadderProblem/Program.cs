@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Snake And ladder Program");
-            RollsDie.rollsDie();
+            SnakeLadderOption.CheckforOption();
         }
     }
 }
